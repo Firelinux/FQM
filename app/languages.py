@@ -234,8 +234,8 @@ GUI = {
         '15': u' visite-nos para mais informações e como fazer :<br> ',
         '16': u'Parar o serviço',
         '17': u'Tem certeza que deseja sair ?',
-        '18': u' Opps, um erro crítico ocorreu , nós seremos ',
-        '19': u' agradeço se você puder ajudar a corrigi-lo, reportando-nos : <br><br> ',
+        '18': u' Opps, um erro crítico ocorreu, ficaremos ',
+        '19': u' grato se você puder ajudar a corrigi-lo, reportando-nos : <br><br> ',
         '20': u'Erro Crítico'
     }
 }
