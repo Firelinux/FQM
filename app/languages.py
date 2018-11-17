@@ -94,6 +94,14 @@ PRINTER = {
         "\nBillets devant : ",
         "\nTache : ",
         "\nTemps : "
+    ],
+    'pt-BR': [
+        u"Versão ",
+        "\nEscritório : ",
+        "\nBilhete atual : ",
+        "\nBilhete anterior : ",
+        "\nTarefa : ",
+        "\nHora : "
     ]
 }
 
@@ -207,5 +215,27 @@ GUI = {
         '18': u' une erreur critique est survenue. veuillez ',
         '19': u' nous signaler cette erreur sur: <br><br> ',
         '20': u'erreur critique'
+    },
+    'pt-BR': {
+        '1': u'Selecione o idioma para alterar a interface para',
+        '2': u'Sobre o FQM',
+        '3': u'Iniciar',
+        '4': u'Inicie o servidor',
+        '5': u'Parar',
+        '6': u'Parar o servidor',
+        '7': u'Selecione a interface de rede com IP que o servidor vai estar',
+        '8': u'Selecione a porta do servidor',
+        '9': u'Status do servidor',
+        '10': u'Servidor está <u>Rodando</u> <br> On : ',
+        '11': u'Servidor está <u> Parado </u> <br>',
+        '12': u'Todos os créditos reservados para o autor da versão FQM ',
+        '13': u', Este trabalho é livre, projeto de código aberto ',
+        '14': u' sob Mozilla Public License version 2.0 . <br><br>',
+        '15': u' visite-nos para mais informações e como fazer :<br> ',
+        '16': u'Parar o serviço',
+        '17': u'Tem certeza que deseja sair ?',
+        '18': u' Opps, um erro crítico ocorreu , nós seremos ',
+        '19': u' agradeço se você puder ajudar a corrigi-lo, reportando-nos : <br><br> ',
+        '20': u'Erro Crítico'
     }
 }
